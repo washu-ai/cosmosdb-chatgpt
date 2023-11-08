@@ -1,7 +1,7 @@
 ---
 page_type: sample
 languages:
-- csharp
+- CSharp
 products:
 - azure-cosmos-db
 - azure-openai
